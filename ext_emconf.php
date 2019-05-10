@@ -11,7 +11,7 @@
  ***************************************************************/
 
 $EM_CONF[$_EXTKEY] = array(
-    'title' => 'Commerce',
+    'title' => 'Commerce FORK',
     'description' => 'TYPO3 commerce shopping system',
     'category' => 'module',
     'author' => 'Ingo Schmitt,Volker Graubaum,Thomas Hempel',
